@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/spa-react-todo-shopping-app/static/css/main.a102879e.css",
+    "main.js": "/spa-react-todo-shopping-app/static/js/main.f54cd713.js",
+    "static/js/787.ea04309a.chunk.js": "/spa-react-todo-shopping-app/static/js/787.ea04309a.chunk.js",
+    "static/media/children3.jpg": "/spa-react-todo-shopping-app/static/media/children3.f73ede8acd897f10c9c6.jpg",
+    "static/media/children1.jpg": "/spa-react-todo-shopping-app/static/media/children1.b65e49a8bad6b8e47db4.jpg",
+    "static/media/children2.jpg": "/spa-react-todo-shopping-app/static/media/children2.7c327434e922971d3688.jpg",
+    "static/media/women3.jpg": "/spa-react-todo-shopping-app/static/media/women3.d33ed01740a7edefba62.jpg",
+    "static/media/men2.jpg": "/spa-react-todo-shopping-app/static/media/men2.140eefb2f3f5aed1ceaf.jpg",
+    "static/media/women4.jpg": "/spa-react-todo-shopping-app/static/media/women4.709676db9ec9508bff1a.jpg",
+    "static/media/white3.jpg": "/spa-react-todo-shopping-app/static/media/white3.b4fdc89244292d532e31.jpg",
+    "static/media/black1.jpg": "/spa-react-todo-shopping-app/static/media/black1.a437dd4370cacc87f477.jpg",
+    "static/media/children4.jpg": "/spa-react-todo-shopping-app/static/media/children4.f7ab83c8ea1cd3c5d0d2.jpg",
+    "static/media/women1.jpg": "/spa-react-todo-shopping-app/static/media/women1.e9c91ef2e5fc7a0cd3ae.jpg",
+    "static/media/women2.jpg": "/spa-react-todo-shopping-app/static/media/women2.2147d8349d4c54b40416.jpg",
+    "static/media/white2.jpg": "/spa-react-todo-shopping-app/static/media/white2.94a8fa8f6f7498b58d05.jpg",
+    "static/media/black3.jpg": "/spa-react-todo-shopping-app/static/media/black3.33a91e512c68694e4a17.jpg",
+    "static/media/men3.jpg": "/spa-react-todo-shopping-app/static/media/men3.fa9862fa5ab3730e3f1d.jpg",
+    "static/media/black2.jpg": "/spa-react-todo-shopping-app/static/media/black2.5450b5498c5dba873fcd.jpg",
+    "static/media/white1.jpg": "/spa-react-todo-shopping-app/static/media/white1.0d54f7456671bce86fb5.jpg",
+    "static/media/men1.jpg": "/spa-react-todo-shopping-app/static/media/men1.e7490c85f466ab9f46cd.jpg",
+    "index.html": "/spa-react-todo-shopping-app/index.html",
+    "main.a102879e.css.map": "/spa-react-todo-shopping-app/static/css/main.a102879e.css.map",
+    "main.f54cd713.js.map": "/spa-react-todo-shopping-app/static/js/main.f54cd713.js.map",
+    "787.ea04309a.chunk.js.map": "/spa-react-todo-shopping-app/static/js/787.ea04309a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a102879e.css",
+    "static/js/main.f54cd713.js"
+  ]
+}
